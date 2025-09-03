@@ -5,7 +5,7 @@ pipeline {
         BRANCH_NAME = 'main'
         REPO_URL = 'https://github.com/saundariyah/Rea.git'
         TARGET_HOST = 'ubuntu@54.159.26.245'
-        TARGET_DIR = '/var/www/html/RJ'
+        TARGET_DIR = '/var/www/html/my-react-app'
     }
 
     stages {
